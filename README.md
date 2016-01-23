@@ -35,7 +35,7 @@ http://sspai.com/25137
 
 ### 表格
 表格较繁琐<br/>
-![Markdown_table](http://cl.ly/0R2U1f383W3P)
+![Markdown_table](https://s3.amazonaws.com/f.cl.ly/items/2U2E293h1U2K0j1A1B0f/Screen%20Shot%202015-12-15%20at%2011.11.05%20AM.png?v=f9307577)
 
 ### 代码框
 用两个 "\`" 把中间的代码包裹起来，如 `code`
