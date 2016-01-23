@@ -8,11 +8,11 @@ http://sspai.com/25137
 ***
 ### 标题
 在一段文字前加#号可以将其定义成标题 <br/>
-"#一级标题" <br/>
+`#一级标题` <br/>
 # 一级标题<br/>  
-"##二级标题"
+`##二级标题`
 ## 二级标题<br/> 
-"###三级标题"
+`###三级标题`
 ### 三级标题 
 ...<br/>
 以此类推，总共六级标题，建议在#号后加一个空格，这是最标准的Markdown语法。
@@ -26,8 +26,8 @@ http://sspai.com/25137
 
 ### 图片与链接
 插入链接与插入图片语法很像，区别在一个 ! 号 <br/>
-链接：[Baidu](http://baidu.com) <br/>
-图片：![Mou icon](http://mouapp.com/Mou_128.png)<br/>
+链接：`[Baidu](http://baidu.com)`[Baidu](http://baidu.com) <br/>
+图片：`![Mou icon](http://mouapp.com/Mou_128.png)`![Mou icon](http://mouapp.com/Mou_128.png)<br/>
 
 ### 粗体与斜体
 用两个 * (左右各两个*)包含一段文本就是粗体的语法 <br/>
